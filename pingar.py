@@ -21,4 +21,3 @@ for av in threads:
 	av.join()
 
 #print "pingando"
- 
